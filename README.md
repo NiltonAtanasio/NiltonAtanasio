@@ -61,17 +61,6 @@ Atuo no desenvolvimento de projetos back-end com foco em APIs REST, autenticaç�
 
 ---
 
-### 📊 Meu universo em números
-
-<div align="center">
-  <a href="https://github.com/niltonatanasio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niltonatanasio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonatanasio&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
----
-
 ### 🌍 Vamos nos conectar?
 
 <p align="center">
